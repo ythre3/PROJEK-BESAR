@@ -20,6 +20,24 @@ const songs = [
         artist: 'Playboi Carti',
     },
     {
+        path: 'yt1z.net - 4X4.mp3',
+        displayName: '4x4',
+        cover: '4x4.jpg',
+        artist: 'Plby carter',
+    },
+    {
+        path: 'type shii.mp3',
+        displayName: 'Type Shit',
+        cover: 'type shii.jpg',
+        artist: 'Future, Metro Boomin, Travis Scott, Playboi Carti',
+    },
+    {
+        path: '24song.mp3',
+        displayName: '24 Song',
+        cover: '24 song.jpg',
+        artist: 'Playboi Carti',
+    },
+    {
         path: 'lose you.mp3',
         displayName: 'LOSE YOU',
         cover: 'lose you.jpg',
