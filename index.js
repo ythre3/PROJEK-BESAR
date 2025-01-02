@@ -38,6 +38,12 @@ const songs = [
         artist: 'Playboi Carti',
     },
     {
+        path: 'long time.mp3',
+        displayName: 'Long Time',
+        cover: 'long time.jpg',
+        artist: 'Playboi Carti',
+    },
+    {
         path: 'lose you.mp3',
         displayName: 'LOSE YOU',
         cover: 'lose you.jpg',
